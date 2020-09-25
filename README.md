@@ -1,3 +1,4 @@
+```javascript
 export default () => ({
   askMeAbout: [
     "webdev", "tech"
@@ -15,3 +16,4 @@ export default () => ({
     databases: ["mongo", "oracle", "MySQL"]
   },
 });
+```
