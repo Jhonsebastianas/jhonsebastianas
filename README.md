@@ -1,7 +1,10 @@
+# About Me
+🔭 Software development
+
 ```javascript
 export default () => ({
   askMeAbout: [
-    "webdev", "tech"
+    "webdev", "automation testing"
   ],
   technologies: {
     frontEnd: {
@@ -12,8 +15,12 @@ export default () => ({
       js: ["node", "express"],
       java: ["Spring", "Hibernate"],
     },
+    cloudOps: ["Google Cloud Platform", "IBM Cloud"],
+    Devops: ["Git", "Gitlab CI", "Katalon Studio"],
+    architectures: ["Serverless", "Microservices", "Monolithic"],
     languages: ["java", "javascript", "go"],
-    databases: ["mongo", "oracle", "MySQL"]
+    databases: ["mongo", "oracle", "MySQL"],
+    editors:  ["VSCode", "Eclipse"]
   },
 });
 ```
