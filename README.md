@@ -30,6 +30,6 @@ export default () => ({
 ```
 
 ## Contacto
-[Linkedin](https://www.linkedin.com/in/jhonsas/)
-[Email](Sebastamriel@gmail.com)
-[Twitter](https://twitter.com/JhonSebastianAS)
+[Linkedin](https://www.linkedin.com/in/jhonsas/)  
+[Email](Sebastamriel@gmail.com)  
+[Twitter](https://twitter.com/JhonSebastianAS)  
