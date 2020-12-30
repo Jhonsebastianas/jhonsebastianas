@@ -1,5 +1,9 @@
-# About Me
-🔭 Software development
+# Jhon Agudelo - @Segaretsu
+
+## Hola 👋
+Soy una persona convencida de que mi rol en la sociedad como desarrollador de software💻⌨🖱 es lograr impactar la vida de las personas de manera positiva con soluciones innovadoras y escalables✨🎢 , de esta manera las compañías logran fidelizar al cliente con resultados increíbles, satisfactorios y con estándares de calidad 🏆. Soy un profesional de trabajo colaborativo con equipos de trabajo y con experiencia en metodología ágiles como Scrum. 
+
+## 🔭 Software development
 
 ```javascript
 export default () => ({
@@ -24,3 +28,8 @@ export default () => ({
   },
 });
 ```
+
+## Contacto
+[Linkedin](https://www.linkedin.com/in/jhonsas/)
+[Email](Sebastamriel@gmail.com)
+[Twitter](https://twitter.com/JhonSebastianAS)
