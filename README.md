@@ -30,6 +30,6 @@ export default () => ({
 ```
 
 ## Contacto
-My personal portfolio: [portfolio](https://www.jhonsebastianas.com/)
-[Linkedin](https://www.linkedin.com/in/jhonsas/)  
-[Twitter](https://twitter.com/JhonSebastianAS)
+- My personal portfolio: [portfolio](https://www.jhonsebastianas.com/)
+- [Linkedin](https://www.linkedin.com/in/jhonsas/)  
+- [Twitter](https://twitter.com/JhonSebastianAS)
