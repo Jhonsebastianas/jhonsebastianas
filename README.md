@@ -1,6 +1,8 @@
 <h1 align="center">Hello World 👋</h1>
 
-<h3 align="center">  :raising_hand_man: Jhon Sebastian | :computer: Analyst developer | :earth_americas: Medellín, Colombia </h3>
+<div align="center">
+  <h3> :raising_hand_man: Jhon Sebastian | :computer: Analyst developer | :earth_americas: Medellín, Colombia </h3> 
+</div>
 
 **About me**  
 Soy una persona convencida de que mi rol en la sociedad como desarrollador de software💻⌨🖱 es lograr impactar la vida de las personas de manera positiva con soluciones innovadoras y escalables✨🎢 , de esta manera las compañías logran fidelizar al cliente con resultados increíbles, satisfactorios y con estándares de calidad 🏆. Soy un profesional de trabajo colaborativo con equipos de trabajo y con experiencia en metodología ágiles como Scrum. 
