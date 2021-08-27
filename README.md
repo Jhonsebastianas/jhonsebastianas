@@ -38,9 +38,9 @@ export default () => ({
 - [Linkedin](https://www.linkedin.com/in/jhonsas/)  
 - [Twitter](https://twitter.com/JhonSebastianAS)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.jhonsebastianas.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segaretsu&theme=tokyonight&layout=compact&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://www.jhonsebastianas.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=segaretsu&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
