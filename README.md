@@ -14,7 +14,7 @@ I am a professional convinced that my role in society as a developer 💻⌨🖱
 ```javascript
 export default () => ({
   askMeAbout: [
-    "webdev", "automation testing"
+    "software development","webdev", "automation testing"
   ],
   technologies: {
     frontEnd: {
