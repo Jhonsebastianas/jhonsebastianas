@@ -1,13 +1,15 @@
 <h1 align="center">Hello World 👋</h1>
 
 <div align="center">
-  <h3> :raising_hand_man: Jhon Sebastian | :computer: Analyst developer | :earth_americas: Medellín, Colombia </h3> 
+  <h3> :raising_hand_man: Jhon Sebastian | 👨🏻‍💻 Analyst developer | :earth_americas: Medellín, Colombia </h3> 
 </div>
 
-**About me**  
-Soy una persona convencida de que mi rol en la sociedad como desarrollador de software💻⌨🖱 es lograr impactar la vida de las personas de manera positiva con soluciones innovadoras y escalables✨🎢 , de esta manera las compañías logran fidelizar al cliente con resultados increíbles, satisfactorios y con estándares de calidad 🏆. Soy un profesional de trabajo colaborativo con equipos de trabajo y con experiencia en metodología ágiles como Scrum. 
+## About me
+I am a professional convinced that my role in society as a developer 💻⌨🖱, is achieve impact the life of the people in a positive way, with scalable and innovate software solutions ✨🎢
 
-## 🔭 Software development
+- 💬 Ask me about anything ☞ [here](https://www.jhonsebastianas.com/#contact).
+
+## 🔭 Technical skills
 
 ```javascript
 export default () => ({
@@ -33,10 +35,7 @@ export default () => ({
 });
 ```
 
-## Contacto
-- My personal portfolio: [portfolio](https://www.jhonsebastianas.com/)
-- [Linkedin](https://www.linkedin.com/in/jhonsas/)  
-- [Twitter](https://twitter.com/JhonSebastianAS)
+### Statistics from my github
 
 <a href="https://www.jhonsebastianas.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segaretsu&theme=tokyonight&layout=compact&count_private=true" />
