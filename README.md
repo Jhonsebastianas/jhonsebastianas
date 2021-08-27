@@ -9,7 +9,7 @@ I am a professional convinced that my role in society as a developer 💻⌨🖱
 
 - 💬 Ask me about anything ☞ [here](https://www.jhonsebastianas.com/#contact).
 
-## 🔭 Technical skills
+### Technical skills
 
 ```javascript
 export default () => ({
