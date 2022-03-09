@@ -18,7 +18,7 @@ I am a professional convinced that my role in society as a developer 💻⌨🖱
 ![](https://camo.githubusercontent.com/c567bc8fea35a350406f3ad80e2ec6dd76dea5f756187908f35322bbbc8bc77c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
 ### ★ Backend 
@@ -27,15 +27,17 @@ I am a professional convinced that my role in society as a developer 💻⌨🖱
 ![](https://camo.githubusercontent.com/a05090df3be7e139e4cde9f3dd44986c26cd512148a98272602fc7f75f84bf49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702532302d2532333737374242342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/ea18354a9388ff60454e60f2c305fc4b5e6749d6101d6e849f5340e20e980c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f2532302d2532333030414444382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676f266c6f676f436f6c6f723d7768697465)
 <p>
-  <img src="https://img.shields.io/badge/Nestjs-red?style=for-the-badge&logo=nestjs&logoColor=black">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nestjs&logoColor=black">
+  <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB">
 </p>
 
 
 
 ### ★ Databases
 <p>
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
