@@ -35,11 +35,15 @@ export default () => ({
 });
 ```
 
-### Statistics from my github
+### My github statistics
 
-<a href="https://www.jhonsebastianas.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segaretsu&theme=tokyonight&layout=compact&count_private=true" />
-</a>
-<a href="https://www.jhonsebastianas.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=segaretsu&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
+<table>
+  <tr>
+    <td valign="top">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segaretsu&theme=tokyonight&layout=compact&count_private=true" />
+    </td>
+    <td valign="top">
+      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=segaretsu&count_private=true&show_icons=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
