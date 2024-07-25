@@ -82,10 +82,10 @@ export default () => ({
 <table>
   <tr>
     <td valign="top">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segaretsu&theme=tokyonight&layout=compact&count_private=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsebastianas&theme=tokyonight&layout=compact&count_private=true" />
     </td>
     <td valign="top">
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=segaretsu&count_private=true&show_icons=true&theme=tokyonight" />
+      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonsebastianas&count_private=true&show_icons=true&theme=tokyonight" />
     </td>
   </tr>
 </table>
