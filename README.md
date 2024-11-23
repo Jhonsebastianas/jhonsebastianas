@@ -7,7 +7,32 @@
 ## About me
 I am a professional convinced that my role in society as a developer 💻⌨🖱, is achieve impact the life of the people in a positive way, with scalable and innovate software solutions ✨🎢
 
-- 💬 Ask me about anything ☞ [here](https://www.jhonsebastianas.com/#contact).
+<details>
+  <summary>☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/jhonsabastianas/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:jhonsebastianas@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://www.instagram.com/jhonsebastianas/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://x.com/JhonSebastianAS" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
 
 ## Languages and Technologies
 
