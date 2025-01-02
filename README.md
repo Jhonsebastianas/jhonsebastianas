@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋</h1>
 
 <div align="center">
-  <h3> :raising_hand_man: Sebastian Agudelo | 👨🏻‍💻 Analyst developer | :earth_americas: Medellín, Colombia </h3> 
+  <h3> :raising_hand_man: Sebastian Agudelo | 👨🏻‍💻 Software Architect & Senior Developer Analyst | :earth_americas: Medellín, Colombia </h3> 
 </div>
 
 ## About me
